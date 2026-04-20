@@ -1,0 +1,5 @@
+google-adk
+python-dotenv
+geopy
+streamlit
+nest-asyncio
