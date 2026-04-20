@@ -159,12 +159,6 @@ python-dotenv
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
 ## 🙏 Acknowledgements
 
 - [Google ADK](https://google.github.io/adk-docs/) for the multi-agent framework
